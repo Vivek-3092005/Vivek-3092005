@@ -1,5 +1,4 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-
 <h1 align="center">Hi 👋, I'm V VIVEK</h1>
 <h3 align="center">A passionate Fullstack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg">
